@@ -1,0 +1,118 @@
+
+		<!DOCTYPE HTML>
+<html lang="en"
+
+		<head>
+				<meta charset="utf-8">
+				<meta name="viewport" content="width=device-width, initial-scale=1"/>
+				<title> Doug Adams </title>
+
+			
+			<link rel="stylesheet" href="css/bootstrap.min.css">
+			<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+			<link rel="stylesheet" href="css/adams_css.css">
+			
+		</head>
+
+		<body>
+
+		<nav class="navbar navbar-default navbar-fixed-top">
+			<div class=" container">
+			<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data target="#navbar" aria-expanded="false" aria controls="navbar">
+				<span class="sr only"></span>
+						<span class="glyphicon glyphicon-menu-hamburger"></span>
+						<span class="mobile-menu"> Menu</span>
+						</button>
+						<a class="navbar-brand" href="#">Douglas Adams</a>
+						</div>
+					<div id="navbar" class="collapse navbar-collapse">
+						<ul class="nav navbar-nav">
+							<li><a href="index.html">About</a></li>
+							<li><a href="adams2_html">Resume</a></li>
+							<li><a href="adams_maps">Maps</a></li>
+							</ul>
+							</div>
+							</div>
+			</nav>
+
+		<div class=" jumbotron">
+			<div class="container">
+			<p>All the Maps that are fit to print</p>
+			</div>
+		</div>	
+
+
+
+		<div class="container">
+				<div class="row">
+					<div class="col-md-10 col-md-offset-4 resume">
+					<h3>Academic Skills</h3>
+						<p> Transcriptions, Interviewing, Qualitative Research</p>
+						</div>
+						
+					<div class="col-md-4">	
+						<h4> Education</h4>
+						<h5> Univerity of Wisconsin, Madison, 2019</h5>
+							<li>PhD in Education Policy Studies</li>
+						<h5> Northern Illnois University, 2011</h5>
+							<li>Master's in History</li>
+							
+						<h5> University of Tennessee, Chattanooga, 2007</h5>
+							<li> BA in History</li>
+							<li> Cum Laude</li>
+							<div class="thumbnail portfolio-thumbnail">
+						<img src="assets/adams_blank_shaded_1.png"/>
+					</div>
+					</div>
+					<div class="col-md-4">
+						<h4> Experience</h4>
+						<h5> University of Wisconsin, Madison, 2013-Current</h5>
+							<p>Teaching Assistant, Curriculum and Instruction</p>
+							<li>Instruct classes in Second Language Acquisition.</li>
+							<li>Supervise Pre-service Teachers.</li>
+
+						<h5> Madison Metro Schools, 2015</h5>
+							<p>Summer School Enrichment Teacher</p>
+							<li>Create Lesson Plans that supplement core content instruction.</li>
+							<li>Teach sportsmanship through athletics.</li>	
+						<h5> Putnam County Schools, 2011-2013</h5>
+							<p> Teacher, Algood Elementary and Middle Schools</p>
+							<li>Develop and deliver lesson plans with the objective of improving ELL students’ English oral, reading, and writing skills.</li>
+							<li> Collaborate with content teachers to tailor the delivery of content to match the students’ ability level.</li>
+					</div>	
+
+					<div class="col-md-4">
+						<h4> Presentations</h4>
+						<h5>Dare the schools work alone: Work toward social Justice? (Re)Imagining Community based spaces as sites for critical education</h5>
+						<li> Roundtable Discussion presented at American Education Research Association Chicago, IL (April 18, 2015)</li>
+
+						<h5>ELLs and the Power of Naming</h5>
+						<li>Presented at the National Multicultural Educational Association in Tucson, Arizona (November 9, 2014)</li>
+
+						<h5>Educational Furniture and Classroom Arrangement in American Progressive Education</h5>
+						<li> Presented at: The Third Annual History Graduate Student Conference at   Northern Illinois University (October 22, 2010)</li>
+
+						<h5>William Jennings Bryan: The 1896 bid for Presidency</h5>
+						<li>Presented at: History Between the Hedges II Conference at University of Georgia (April 5, 2008)</li>
+
+						<h5>Fact and Fiction in the Writing of Roman History</h5>
+						<li>Presented at: Southeastern Student History Conference at University of Tennessee at Chattanooga (February 15, 2007)</li>
+
+
+
+
+						</div>
+				
+
+				</div>
+
+		</div>			
+
+
+
+
+			<script type="text/javascript" src="lib/jquery-1.11.3.js"></script>
+			<script type="text/javascript" src="js/bootstrap.min.js"> </script>
+		</body>
+		</html>
